@@ -13,6 +13,7 @@ Bienvenue sur mon portfolio de projets en **Data Science**, **Machine Learning**
 | **03** | [🌸 Analyse & Recommandation Parfums](./03-perfume-market-analysis) | Retail / Profilage Olfactif | Clustering, Règles Métier, Pandas | ✅ Terminé |
 | **04** | [🎓 Inégalités Sociales au Sénégal (Mémoire)](./04-memoire-inegalites-senegal) | Économétrie / Politiques Publiques | Indice Gini, Inégalités Multidimensionnelles, Modélisation | ✅ Terminé |
 | **05** | [🏥 Prédiction de Réadmission Patients](./05-readmission-patients-hospital) | Santé / Health Analytics | Classification ML, Évaluation Risque Médical | ✅ Terminé |
+| **06** | [🚢 Titanic EDA & Prétraitement de Données](./06-titanic-survival-analysis) | Data Analytics / Prétraitement | Missingno, Imputation (Médiane & Mode), Seaborn | ✅ Terminé |
 
 ---
 
@@ -20,8 +21,8 @@ Bienvenue sur mon portfolio de projets en **Data Science**, **Machine Learning**
 
 * **Langage principal** : Python 3
 * **Analyse & Manipulation de données** : Pandas, NumPy
-* **Machine Learning & Modélisation** : Scikit-Learn, XGBoost, Random Forest, Régression Linéaire & Logistique
-* **Data Visualisation** : Matplotlib, Seaborn, Plotly
+* **Machine Learning & Prétraitement** : Scikit-Learn (Imputers, KNN, Iterative), XGBoost, Random Forest, Régression
+* **Data Visualisation** : Matplotlib, Seaborn, Missingno, Plotly
 * **Environnements** : Jupyter Notebook, Google Colab, Git / GitHub
 
 ---
@@ -33,23 +34,34 @@ portfolio-data-science-ia/
 ├── 01-prediction-panne-avion/             <- Maintenance prédictive sur moteurs d'avion (NASA C-MAPSS)
 │   ├── README.md
 │   ├── requirements.txt
-│   └── Prediction_panne_d_un_avion.ipynb
+│   ├── Prediction_panne_d_un_avion.ipynb
+│   └── prediction_panne_avion.py
 ├── 02-telco-customer-churn/               <- Prédiction de churn et analyse client télécoms
 │   ├── README.md
 │   ├── requirements.txt
-│   └── telco_customer_churn.ipynb
+│   ├── telco_customer_churn.ipynb
+│   └── telco_customer_churn.py
 ├── 03-perfume-market-analysis/            <- Profilage et analyse du marché des parfums
 │   ├── README.md
 │   ├── requirements.txt
-│   └── perfume_market_analysis.ipynb
+│   ├── perfume_market_analysis.ipynb
+│   └── perfume_market_analysis.py
 ├── 04-memoire-inegalites-senegal/         <- Impact des politiques publiques sur les inégalités au Sénégal
 │   ├── README.md
 │   ├── requirements.txt
-│   └── memoire_inegalites_senegal.ipynb
-└── 05-readmission-patients-hospital/       <- Prédiction de la réadmission des patients hospitaliers
+│   ├── memoire_inegalites_senegal.ipynb
+│   └── memoire_inegalites_senegal.py
+├── 05-readmission-patients-hospital/       <- Prédiction de la réadmission des patients hospitaliers
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── readmission_patients_hospital.ipynb
+│   └── readmission_patients_hospital.py
+└── 06-titanic-survival-analysis/          <- Analyse exploratoire & imputation de valeurs manquantes
     ├── README.md
     ├── requirements.txt
-    └── readmission_patients_hospital.ipynb
+    ├── Titanic.csv
+    ├── exo_titanic.ipynb
+    └── titanic_analysis.py
 ```
 
 ---
