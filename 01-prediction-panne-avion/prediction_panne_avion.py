@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Prediction-panne-d-un-avion
 # Code original extrait de Prediction_panne_d_un_avion.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [markdown]

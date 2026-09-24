@@ -1,4 +1,4 @@
-# 🌟 Portfolio Data Science & Machine Learning — Fatima DIOUF
+# 🌟 Portfolio Data Science & Machine Learning — Fatou DIOUF
 
 Bienvenue sur mon portfolio de projets en **Data Science**, **Machine Learning** et **Intelligence Artificielle**. Ce dépôt rassemble des projets appliqués couvrant l'analyse prédictive, le traitement de données multidimensionnelles, l'économétrie et l'aide à la décision.
 
@@ -69,4 +69,4 @@ portfolio-data-science-ia/
 ## 📬 Contact & Profil
 
 * **GitHub** : [@fatimadiouf](https://github.com/fatimadiouf)
-* **LinkedIn** : [Fatima Diouf](https://linkedin.com)
+* **LinkedIn** : [Fatou Diouf](https://linkedin.com)

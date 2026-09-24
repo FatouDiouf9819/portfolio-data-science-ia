@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Impact-Politiques-Inegalites-Senegal
 # Code original extrait de memoire_inegalites_senegal.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [markdown]

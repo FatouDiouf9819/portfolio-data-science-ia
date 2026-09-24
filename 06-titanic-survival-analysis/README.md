@@ -78,4 +78,4 @@ python titanic_analysis.py
 
 ## 👩‍💻 Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)

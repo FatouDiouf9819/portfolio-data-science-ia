@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Telco-Customer-Churn
 # Code original extrait de telco_customer_churn.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [markdown]

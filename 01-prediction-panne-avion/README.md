@@ -61,4 +61,4 @@ jupyter notebook Prediction_panne_d_un_avion.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)

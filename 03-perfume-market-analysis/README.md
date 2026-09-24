@@ -36,4 +36,4 @@ jupyter notebook perfume_market_analysis.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)

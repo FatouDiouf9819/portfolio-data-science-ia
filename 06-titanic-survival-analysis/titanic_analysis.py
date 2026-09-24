@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Titanic - Analyse Exploratoire & Prétraitement de Données (EDA)
 # Code original extrait de exo_titanic.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [code] - Cellule 0

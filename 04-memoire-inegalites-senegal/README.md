@@ -1,6 +1,6 @@
 # 🎓 Impact des Politiques Publiques Générales sur les Inégalités Sociales au Sénégal
 
-Ce projet constitue le travail de modélisation et d'analyse économétrique / Data Science issu du **mémoire de recherche de Fatima DIOUF**.
+Ce projet constitue le travail de modélisation et d'analyse économétrique / Data Science issu du **mémoire de recherche de Fatou DIOUF**.
 
 ---
 
@@ -41,4 +41,4 @@ jupyter notebook memoire_inegalites_senegal.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)

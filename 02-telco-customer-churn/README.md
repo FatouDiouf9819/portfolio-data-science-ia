@@ -42,4 +42,4 @@ jupyter notebook telco_customer_churn.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)

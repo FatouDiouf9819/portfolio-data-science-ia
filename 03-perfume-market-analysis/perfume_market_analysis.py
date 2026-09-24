@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Perfume-Market-Analysis
 # Code original extrait de perfume_market_analysis.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [code]

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Projet : Readmission-Patients-Hospital
 # Code original extrait de readmission_patients_hospital.ipynb
-# Auteur : Fatima DIOUF
+# Auteur : Fatou DIOUF
 
 
 # %% [code]
