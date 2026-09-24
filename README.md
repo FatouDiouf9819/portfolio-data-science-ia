@@ -68,5 +68,5 @@ portfolio-data-science-ia/
 
 ## 📬 Contact & Profil
 
-* **GitHub** : [@fatimadiouf](https://github.com/fatimadiouf)
+* **GitHub** : [@fatoudiouf](https://github.com/fatoudiouf)
 * **LinkedIn** : [Fatou Diouf](https://linkedin.com)

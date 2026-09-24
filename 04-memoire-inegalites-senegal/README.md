@@ -31,7 +31,7 @@ Ce projet constitue le travail de modélisation et d'analyse économétrique / D
 ## 🚀 Installation et Utilisation
 
 ```bash
-git clone https://github.com/fatimadiouf/Impact-Politiques-Inegalites-Senegal.git
+git clone https://github.com/fatoudiouf/Impact-Politiques-Inegalites-Senegal.git
 cd Impact-Politiques-Inegalites-Senegal
 pip install -r requirements.txt
 jupyter notebook memoire_inegalites_senegal.ipynb
@@ -41,4 +41,4 @@ jupyter notebook memoire_inegalites_senegal.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)

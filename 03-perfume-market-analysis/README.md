@@ -26,7 +26,7 @@ Ce projet propose une analyse structurée et un système de profilage olfactif b
 ## 🚀 Installation et Utilisation
 
 ```bash
-git clone https://github.com/fatimadiouf/Perfume-Market-Analysis.git
+git clone https://github.com/fatoudiouf/Perfume-Market-Analysis.git
 cd Perfume-Market-Analysis
 pip install -r requirements.txt
 jupyter notebook perfume_market_analysis.ipynb
@@ -36,4 +36,4 @@ jupyter notebook perfume_market_analysis.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)

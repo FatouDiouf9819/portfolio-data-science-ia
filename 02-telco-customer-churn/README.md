@@ -32,7 +32,7 @@ Ce projet de **Data Science** et de **Machine Learning** a pour objectif d'analy
 ## 🚀 Installation et Utilisation
 
 ```bash
-git clone https://github.com/fatimadiouf/Telco-Customer-Churn.git
+git clone https://github.com/fatoudiouf/Telco-Customer-Churn.git
 cd Telco-Customer-Churn
 pip install -r requirements.txt
 jupyter notebook telco_customer_churn.ipynb
@@ -42,4 +42,4 @@ jupyter notebook telco_customer_churn.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)

@@ -43,7 +43,7 @@ Le dataset comprend les variables suivantes :
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/fatimadiouf/Prediction-panne-d-un-avion.git
+git clone https://github.com/fatoudiouf/Prediction-panne-d-un-avion.git
 cd Prediction-panne-d-un-avion
 ```
 
@@ -61,4 +61,4 @@ jupyter notebook Prediction_panne_d_un_avion.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)

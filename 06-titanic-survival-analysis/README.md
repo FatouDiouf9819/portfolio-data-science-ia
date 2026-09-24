@@ -53,7 +53,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/fatimadiouf/Titanic-Survival-Analysis-EDA.git
+git clone https://github.com/fatoudiouf/Titanic-Survival-Analysis-EDA.git
 cd Titanic-Survival-Analysis-EDA
 ```
 
@@ -78,4 +78,4 @@ python titanic_analysis.py
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)

@@ -29,7 +29,7 @@ Ce projet de **Data Science en Santé (Health Analytics)** vise à analyser les 
 ## 🚀 Installation et Utilisation
 
 ```bash
-git clone https://github.com/fatimadiouf/Readmission-Patients-Hospital.git
+git clone https://github.com/fatoudiouf/Readmission-Patients-Hospital.git
 cd Readmission-Patients-Hospital
 pip install -r requirements.txt
 jupyter notebook readmission_patients_hospital.ipynb
@@ -39,4 +39,4 @@ jupyter notebook readmission_patients_hospital.ipynb
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)
