@@ -1,6 +1,6 @@
-# ✈️ Prédiction de la durée de vie utile d’un moteur d’avion — NASA C-MAPSS
+#  Prédiction de la durée de vie utile d’un moteur d’avion — NASA C-MAPSS
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce projet porte sur la **prédiction de la durée de vie utile restante d’un moteur aéronautique**, appelée **RUL (Remaining Useful Life)**, à partir de données de dégradation issues du jeu de données **NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation)**.
 
@@ -10,7 +10,7 @@ Ce projet s’inscrit dans le domaine de la **maintenance prédictive**, où les
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 Le projet a pour objectifs de :
 
@@ -25,7 +25,7 @@ Le projet a pour objectifs de :
 
 ---
 
-## 📊 Dataset — NASA C-MAPSS
+##  Dataset — NASA C-MAPSS
 
 Le projet utilise le jeu de données :
 
@@ -49,7 +49,7 @@ Le projet exploite notamment les données provenant de **21 capteurs**.
 
 ---
 
-## 🔧 Problématique
+##  Problématique
 
 La problématique étudiée peut être formulée ainsi :
 
@@ -59,7 +59,7 @@ Il s’agit donc d’un **problème de régression supervisée**, puisque la var
 
 ---
 
-## 📐 Construction de la variable cible — RUL
+##  Construction de la variable cible — RUL
 
 La variable **RUL (Remaining Useful Life)** représente le nombre de cycles restant avant la fin de vie utile du moteur.
 
@@ -79,37 +79,37 @@ Cette variable constitue la **variable cible** utilisée pour entraîner les mod
 
 ---
 
-## 🧹 Prétraitement et nettoyage des données
+##  Prétraitement et nettoyage des données
 
 Avant l’entraînement des modèles, plusieurs étapes de préparation des données ont été réalisées.
 
-### 🔍 Analyse des variables
+###  Analyse des variables
 
 Les différentes variables du dataset ont été analysées afin d’identifier les informations pertinentes pour la prédiction du RUL.
 
-### 📉 Sélection des variables
+###  Sélection des variables
 
 Les capteurs présentant une variance très faible ou une information limitée ont été identifiés afin de réduire les variables peu informatives pour la modélisation.
 
-### 🚨 Détection des valeurs aberrantes
+###  Détection des valeurs aberrantes
 
 Les valeurs aberrantes (*outliers*) ont été détectées à l’aide de la méthode de l’**IQR (Interquartile Range)**.
 
 L’IQR permet de déterminer une plage statistique à partir du premier et du troisième quartile afin d’identifier les observations situées en dehors des limites considérées.
 
-### 🔄 Traitement des valeurs aberrantes
+###  Traitement des valeurs aberrantes
 
 Les valeurs identifiées comme aberrantes ont été remplacées par la **médiane** de la variable concernée.
 
 Cette étape permet de limiter l’influence des valeurs extrêmes sur l’apprentissage des modèles.
 
-### 📏 Mise à l’échelle des données
+###  Mise à l’échelle des données
 
 Les variables utilisées pour la modélisation sont préparées et mises à l’échelle afin de faciliter leur utilisation par les algorithmes de Machine Learning.
 
 ---
 
-## 🔬 Analyse exploratoire des données
+##  Analyse exploratoire des données
 
 Une analyse exploratoire a été réalisée afin de mieux comprendre :
 
@@ -124,7 +124,7 @@ Des outils de visualisation tels que **Matplotlib** et **Seaborn** ont été uti
 
 ---
 
-## 🤖 Modèles de Machine Learning
+##  Modèles de Machine Learning
 
 Trois modèles de régression ont été étudiés dans le cadre de ce projet.
 
@@ -171,7 +171,7 @@ Le modèle final utilisé pour les prédictions correspond au **meilleur estimat
 
 ---
 
-## 📈 Méthodes d’évaluation
+##  Méthodes d’évaluation
 
 Les modèles sont évalués à l’aide de trois métriques principales.
 
@@ -197,7 +197,7 @@ Le **R²** mesure la proportion de la variance de la variable cible expliquée p
 
 ---
 
-## 📊 Résultats et comparaison des modèles
+##  Résultats et comparaison des modèles
 
 Les trois modèles ont été évalués sur le même jeu de test à partir de trois métriques de régression :
 
@@ -211,7 +211,7 @@ Les trois modèles ont été évalués sur le même jeu de test à partir de tro
 | Random Forest | 41.077 | 30.440 | 0.614 |
 | **XGBoost** | **40.089** | **29.283** | **0.633** |
 
-### 🏆 Modèle retenu : XGBoost
+###  Modèle retenu : XGBoost
 
 À l’issue de la comparaison, **XGBoost a été retenu comme modèle final** pour la prédiction du RUL.
 
@@ -239,7 +239,7 @@ Les prédictions peuvent ainsi être comparées aux valeurs réelles de RUL afin
 
 ---
 
-## 📉 Analyse des erreurs
+##  Analyse des erreurs
 
 L’analyse des erreurs permet d’étudier la différence entre :
 
@@ -252,7 +252,7 @@ Cette analyse complète l’évaluation globale réalisée à partir du RMSE, du
 
 ---
 
-## 🏭 Application à la maintenance prédictive
+##  Application à la maintenance prédictive
 
 La prédiction du **RUL** peut être utilisée comme un indicateur de l’état de dégradation d’un moteur.
 
@@ -270,7 +270,7 @@ Les prédictions constituent ainsi un **indicateur d’aide à la décision** da
 
 ---
 
-## 🔄 Workflow du projet
+##  Workflow du projet
 
 Le workflow général du projet peut être résumé ainsi :
 
@@ -306,7 +306,7 @@ Préparation des variables
     Comparaison des performances
                │
                ▼
-       🏆 XGBoost retenu
+        XGBoost retenu
                │
                ▼
           Prédiction RUL
@@ -317,7 +317,7 @@ Préparation des variables
 
 ---
 
-## 🛠️ Technologies et bibliothèques utilisées
+##  Technologies et bibliothèques utilisées
 
 ### Langage
 
@@ -357,7 +357,7 @@ Prediction-panne-d-un-avion/
 
 ---
 
-## 🚀 Installation et utilisation
+##  Installation et utilisation
 
 ### 1. Cloner le dépôt
 
@@ -395,7 +395,7 @@ Le notebook contient les différentes étapes du projet :
 
 ---
 
-## 📌 Résumé du projet
+##  Résumé du projet
 
 | Élément | Résultat |
 |---|---|
@@ -415,7 +415,7 @@ Le notebook contient les différentes étapes du projet :
 
 ---
 
-## 🔬 Compétences mises en pratique
+##  Compétences mises en pratique
 
 Ce projet permet de mettre en pratique plusieurs compétences en **Data Science, Machine Learning et modélisation** :
 
@@ -441,7 +441,7 @@ Ce projet illustre également le lien entre **modélisation mathématique, progr
 
 ---
 
-## 🎓 Intérêt académique et professionnel
+##  Intérêt académique et professionnel
 
 Ce projet s’inscrit dans mon parcours en **Modélisation Mathématique et Simulation Numérique** et dans mon orientation progressive vers la **Data Science et l’Intelligence Artificielle**.
 
@@ -459,7 +459,7 @@ Le projet constitue ainsi une application concrète de la modélisation mathéma
 
 ---
 
-## ⚠️ Limites et perspectives
+##  Limites et perspectives
 
 Les résultats présentés correspondent à la **configuration expérimentale et au jeu de test utilisés dans ce projet**.
 
@@ -478,7 +478,7 @@ Plusieurs pistes pourraient être envisagées pour approfondir le projet :
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 **Fatou DIOUF**
 
@@ -487,14 +487,3 @@ Plusieurs pistes pourraient être envisagées pour approfondir le projet :
 ### 🔗 GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatoudiouf-black?logo=github)](https://github.com/fatoudiouf)
-
-**Profil GitHub :**  
-https://github.com/fatoudiouf
-
----
-
-## 📌 Projet
-
-**Prédiction de la durée de vie utile d’un moteur d’avion à partir des données NASA C-MAPSS**
-
-> Projet académique de Machine Learning appliqué à la maintenance prédictive.
