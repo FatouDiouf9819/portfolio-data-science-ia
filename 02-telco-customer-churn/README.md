@@ -1,10 +1,10 @@
-# 📊 Analyse et Prédiction de l'Attrition Client (Telco Customer Churn)
+#  Analyse et Prédiction de l'Attrition Client (Telco Customer Churn)
 
 Ce projet de **Data Science** et de **Machine Learning** a pour objectif d'analyser le comportement des clients d'un opérateur de télécommunications afin de **prédire l'attrition client (*Customer Churn*)** et d'identifier les facteurs clés influençant le départ des clients.
 
 ---
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 1. **Analyse Exploratoire des Données (EDA)** :
    - Étude des profils démographiques des clients (Genre, Senior Citizen, Partenaire, Personnes à charge).
@@ -20,7 +20,7 @@ Ce projet de **Data Science** et de **Machine Learning** a pour objectif d'analy
 
 ---
 
-## 🛠️ Technologies et Librairies Utilisées
+##  Technologies et Librairies Utilisées
 
 - **Langage** : Python 3
 - **Manipulation de Données** : `pandas`, `numpy`
@@ -29,7 +29,7 @@ Ce projet de **Data Science** et de **Machine Learning** a pour objectif d'analy
 
 ---
 
-## 🚀 Installation et Utilisation
+##  Installation et Utilisation
 
 ```bash
 git clone https://github.com/fatoudiouf/Telco-Customer-Churn.git
@@ -40,6 +40,6 @@ jupyter notebook telco_customer_churn.ipynb
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
-* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)
+* **Fatou DIOUF** - [GitHub @FatouDiouf9819](https://github.com/FatouDiouf9819)
