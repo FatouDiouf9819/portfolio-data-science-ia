@@ -45,7 +45,7 @@ Ce projet d'**Analyse Exploratoire des Données (EDA)** et de **Business Intelli
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 - **Langage** : Python 3
 - **Manipulation & Traitement de Données** : `pandas`, `numpy`
@@ -54,7 +54,7 @@ Ce projet d'**Analyse Exploratoire des Données (EDA)** et de **Business Intelli
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```text
 Product-Sales-Analysis/
