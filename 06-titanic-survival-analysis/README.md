@@ -76,6 +76,6 @@ python titanic_analysis.py
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 * **Fatou DIOUF** - [GitHub @FatouDiouf9819](https://github.com/FatouDiouf9819)
