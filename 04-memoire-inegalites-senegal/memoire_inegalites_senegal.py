@@ -69,7 +69,7 @@
 # CELLULE 1: Installation et imports pour Google Colab
 # Exécutez cette cellule en premier
 
-!pip install geopandas folium plotly -q
+# !pip install geopandas folium plotly -q
 
 import pandas as pd
 import numpy as np

@@ -14,7 +14,7 @@ import missingno as msno
 from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import MissingIndicator, KNNImputer,SimpleImputer
 from sklearn.impute import IterativeImputer
-df = pd.read_csv('/content/Titanic.csv').set_index('PassengerId')
+df = pd.read_csv('Titanic.csv').set_index('PassengerId')
 
 # %% [code] - Cellule 1
 #Affissage des 5 premieres lignes

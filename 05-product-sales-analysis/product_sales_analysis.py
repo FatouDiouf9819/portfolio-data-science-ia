@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Projet : Readmission-Patients-Hospital
-# Code original extrait de readmission_patients_hospital.ipynb
+# Projet : Product-Sales-Analysis
+# Code original extrait de product_sales_analysis.ipynb
 # Auteur : Fatou DIOUF
 
 
@@ -10,9 +10,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-from google.colab import drive
-drive.mount('/content/drive')
-df=pd.read_csv('/content/drive/MyDrive/Formation_IA_ForceN/products.csv').set_index('Index')
+# Chargement des données
+import os
+data_path = 'products.csv'
+if os.path.exists(data_path):
+    df = pd.read_csv(data_path).set_index('Index')
+else:
+    print('Fichier products.csv introuvable dans le répertoire courant.')
+
 
 # %% [code]
 df.head()

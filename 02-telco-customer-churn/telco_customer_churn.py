@@ -14,13 +14,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-from google.colab import drive\
-
-drive.mount('/content/drive')
-
+import os
 
 # %% [code]
-df=pd.read_excel('/content/drive/MyDrive/Formation_IA_ForceN/Telco_customer_churn.xlsx')
+# Chargement des données
+data_path = 'Telco_customer_churn.xlsx'
+if os.path.exists(data_path):
+    df = pd.read_excel(data_path)
+elif os.path.exists('WA_Fn-UseC_-Telco-Customer-Churn.csv'):
+    df = pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
+else:
+    print('Fichier de données Telco_customer_churn introuvable dans le répertoire courant.')
+    df = pd.DataFrame()
+
 df.head()
 
 # %% [markdown]

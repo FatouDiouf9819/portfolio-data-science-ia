@@ -6,8 +6,8 @@
 
 # %% [code]
 import pandas as pd
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 df=pd.read_csv("/content/drive/MyDrive/Perfume_Table.csv - tableau_parfums_corrige (1).csv")
 df.head()
 
@@ -30,8 +30,8 @@ df.tail()
 
 
 # ==================== CELLULE 1 : INSTALLATION DES DEPENDANCES ====================
-!pip install -q sentence-transformers pandas numpy scikit-learn
-!pip install -q --upgrade sentence-transformers
+# !pip install -q sentence-transformers pandas numpy scikit-learn
+# !pip install -q --upgrade sentence-transformers
 
 print("Dépendances installées avec succès !")
 
@@ -55,7 +55,7 @@ try:
 except ImportError as e:
     print(f"Erreur d'import: {e}")
     print("Tentative d'installation...")
-    !pip install -q sentence-transformers
+#     !pip install -q sentence-transformers
     try:
         from sentence_transformers import SentenceTransformer, util
         ST_AVAILABLE = True
@@ -1086,9 +1086,9 @@ def main():
         print("\nGoogle Drive n'est pas monté")
         response = input("Voulez-vous monter Google Drive? (o/n): ").lower()
         if response in ['o', 'oui', 'y', 'yes']:
-            from google.colab import drive
+#             from google.colab import drive
             try:
-                drive.mount('/content/drive')
+#                 drive.mount('/content/drive')
                 print("Google Drive monté avec succès")
             except Exception as e:
                 print(f"Erreur lors du montage: {e}")
