@@ -1,4 +1,4 @@
-# 🚢 Titanic - Analyse Exploratoire de Données (EDA) & Prétraitement
+#  Titanic - Analyse Exploratoire de Données (EDA) & Prétraitement
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
