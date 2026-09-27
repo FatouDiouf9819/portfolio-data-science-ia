@@ -1,10 +1,10 @@
-# 🎓 Impact des Politiques Publiques Générales sur les Inégalités Sociales au Sénégal
+#  Impact des Politiques Publiques Générales sur les Inégalités Sociales au Sénégal
 
 Ce projet constitue le travail de modélisation et d'analyse économétrique / Data Science issu du **mémoire de recherche de Fatou DIOUF**.
 
 ---
 
-## 🎯 Objectifs de l'Étude
+##  Objectifs de l'Étude
 
 1. **Mesure des Inégalités Sociales** :
    - Évaluation de l'**Indice de Gini** (inégalités de revenus).
@@ -20,7 +20,7 @@ Ce projet constitue le travail de modélisation et d'analyse économétrique / D
 
 ---
 
-## 🛠️ Technologies et Librairies Utilisées
+##  Technologies et Librairies Utilisées
 
 - **Langage** : Python 3
 - **Manipulation de Données** : `pandas`, `numpy`
@@ -28,7 +28,7 @@ Ce projet constitue le travail de modélisation et d'analyse économétrique / D
 
 ---
 
-## 🚀 Installation et Utilisation
+##  Installation et Utilisation
 
 ```bash
 git clone https://github.com/fatoudiouf/Impact-Politiques-Inegalites-Senegal.git
@@ -39,6 +39,6 @@ jupyter notebook memoire_inegalites_senegal.ipynb
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
-* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)
+* **Fatou DIOUF** - [GitHub @FatouDiouf9819](https://github.com/FatouDiouf9819)
