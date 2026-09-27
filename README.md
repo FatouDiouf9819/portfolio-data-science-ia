@@ -76,4 +76,4 @@ portfolio-data-science-ia/
 
 * **Nom** : Fatou DIOUF
 * **Formation** : Master 1 Modélisation Mathématique et Simulation Numérique
-* **GitHub** : [@fatoudiouf](https://github.com/fatoudiouf)
+* **GitHub** : [@FatouDiouf9819](https://github.com/FatouDiouf9819)
