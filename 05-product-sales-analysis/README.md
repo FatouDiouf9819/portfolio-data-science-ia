@@ -1,10 +1,10 @@
-# 🛍️ Analyse et Profilage du Catalogue E-Commerce & Gestion des Stocks (Product Sales & Inventory Analysis)
+#  Analyse et Profilage du Catalogue E-Commerce & Gestion des Stocks (Product Sales & Inventory Analysis)
 
 Ce projet d'**Analyse Exploratoire des Données (EDA)** et de **Business Intelligence** porte sur l'étude d'un catalogue de produits e-commerce multi-catégories. L'objectif est d'analyser la structure des prix, la répartition des stocks, les caractéristiques des produits (marques, catégories, tailles, coloris, disponibilités) et d'identifier des insights décisionnels pour la gestion d'inventaire et la stratégie commerciale.
 
 ---
 
-## 📌 Résumé du Projet
+##  Résumé du Projet
 
 | Élément | Description |
 |---|---|
@@ -17,7 +17,7 @@ Ce projet d'**Analyse Exploratoire des Données (EDA)** et de **Business Intelli
 
 ---
 
-## 🎯 Objectifs de l'Étude
+##  Objectifs de l'Étude
 
 1. **Structuration & Typage des Données** :
    - Encodage optimal des variables catégorielles (`Brand`, `Category`, `Size`, `Color`, `Availability`, `Currency`).
@@ -32,7 +32,7 @@ Ce projet d'**Analyse Exploratoire des Données (EDA)** et de **Business Intelli
 
 ---
 
-## 📊 Principaux Résultats & Insights
+##  Principaux Résultats & Insights
 
 - **Diversité du catalogue** : Le catalogue comprend 100 marques et fournisseurs distincts, avec une forte représentation de catégories telles que *Automotive*, *Cleaning supplies*, *Health & wellness*, et *Kid's clothing*.
 - **Dispersion des Prix** :
@@ -67,7 +67,7 @@ Product-Sales-Analysis/
 
 ---
 
-## 🚀 Installation et Utilisation
+##  Installation et Utilisation
 
 ### 1. Cloner le dépôt
 ```bash
@@ -94,8 +94,8 @@ python product_sales_analysis.py
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 **Fatou DIOUF**  
 Étudiante en **Master 1 Modélisation Mathématique et Simulation Numérique**  
-*Profil GitHub :* [github.com/fatoudiouf](https://github.com/fatoudiouf)
+*Profil GitHub :* [github.com/FatouDiouf9819](https://github.com/FatouDiouf9819)
