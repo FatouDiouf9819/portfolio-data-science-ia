@@ -10,7 +10,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 1. **Exploration & Compréhension des Données** :
    - Analyse structurelle des variables quantitatives (`Age`, `Fare`, `SibSp`, `Parch`) et qualitatives (`Pclass`, `Sex`, `Embarked`, `Survived`).
@@ -27,7 +27,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```text
 ├── Titanic.csv                # Dataset original du Titanic
@@ -40,7 +40,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🛠️ Technologies & Bibliothèques Utilisées
+##  Technologies & Bibliothèques Utilisées
 
 - **Langage** : Python 3
 - **Manipulation de Données** : `pandas`, `numpy`
@@ -49,11 +49,11 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🚀 Installation & Exécution
+##  Installation & Exécution
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/fatoudiouf/Titanic-Survival-Analysis-EDA.git
+git clone https://github.com/FatouDiouf9819/Titanic-Survival-Analysis-EDA.git
 cd Titanic-Survival-Analysis-EDA
 ```
 
@@ -78,4 +78,4 @@ python titanic_analysis.py
 
 ## 👩‍💻 Auteur
 
-* **Fatou DIOUF** - [GitHub @fatoudiouf](https://github.com/fatoudiouf)
+* **Fatou DIOUF** - [GitHub @FatouDiouf9819](https://github.com/FatouDiouf9819)
