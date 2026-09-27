@@ -486,4 +486,4 @@ Plusieurs pistes pourraient être envisagées pour approfondir le projet :
 
 ### 🔗 GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-fatoudiouf-black?logo=github)](https://github.com/fatoudiouf)
+[![GitHub](https://img.shields.io/badge/GitHub-FatouDiouf9819-black?logo=github)](https://github.com/FatouDiouf9819)
